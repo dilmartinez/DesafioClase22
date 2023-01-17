@@ -1,0 +1,31 @@
+{
+  "name": "desafioclase22",
+  "version": "1.0.0",
+  "description": "DesafioClase22",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilmartinez/DesafioClase22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilmartinez/DesafioClase22/issues"
+  },
+  "homepage": "https://github.com/dilmartinez/DesafioClase22#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "faker": "^5.4.0",
+    "knex": "^2.4.0",
+    "mysql": "^2.18.1",
+    "normalizr": "^3.6.2",
+    "socket.io": "^4.5.4"
+  }
+}
